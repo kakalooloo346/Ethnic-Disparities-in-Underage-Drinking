@@ -10,7 +10,7 @@ The data can be found at:-
 
 
   
-Replication steps:  
+Replication steps:
 1) Import the data
 2) Run _/R Scripts/Main Code.R_  
 
