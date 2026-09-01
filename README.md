@@ -1,2 +1,2 @@
 # Ethnic-Disparities-in-Underage-Drinking
-All code and figures relating to the project
+Replication files for _Ethnic Disparities in Underage Drinking: Evidence from English Adolescents (2016–2021)_
