@@ -7,8 +7,9 @@ The code to reproduce figure 2 and 3 is present, figure 1 code isn't working (wi
 The data can be found at:-  
 2016 - https://datacatalogue.ukdataservice.ac.uk/studies/study/8320#details  
 2021 - https://datacatalogue.ukdataservice.ac.uk/studies/study/9029#details    
-  
-Replication steps:
+
+<br>
+## Replication steps:
 1) Import the data
 2) Run _/R Scripts/Real_Main.R_  
 
